@@ -1,5 +1,5 @@
 FROM		    ubuntu:14.04
-MAINTAINER	Josh Chaney "josh@chaney.io"
+MAINTAINER	Tristan Foureur "esya@me.com"
 
 ADD         bootstrap.sh /usr/bin/
 ADD         nginx_ssl.conf /root/
